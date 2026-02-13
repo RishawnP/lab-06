@@ -1,4 +1,7 @@
 # lab-06
 
-Rishawn Paramapathy
-1755184
+Name: Rishawn Paramapathy
+
+
+SID: 1755184
+CCID: rishawn
