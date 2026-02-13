@@ -8,8 +8,15 @@ import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
 
+/**
+ * Main activity for the app.
+ */
 public class MainActivity extends AppCompatActivity {
 
+    /**
+     * Initializes the activity and applies window insets.
+     * @param savedInstanceState The saved state bundle.
+     */
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

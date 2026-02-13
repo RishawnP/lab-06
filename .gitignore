@@ -1,0 +1,6 @@
+# Gradle cache (local)
+code/.gradle-home/
+code/.gradle/
+
+# Build outputs
+code/**/build/
